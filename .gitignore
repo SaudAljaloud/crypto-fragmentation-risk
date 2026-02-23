@@ -1,0 +1,12 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Data files
+*.csv
+*.csv.zip
+data/raw/
+data/*.parquet
+
+# Outputs
+*.log
