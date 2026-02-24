@@ -5,7 +5,7 @@ This repository contains the replication code, cleaned datasets, and output figu
 
 **“Cross-Venue Integration, Risk Measurement, and Stablecoin Peg Fragility in Centralized Cryptocurrency Markets”**
 
-by S. Aljaloud and W. Alghassab - submitted to Economies (MDPI).
+by S. Aljaloud and W. Alghassab - submitted to Econometrics (MDPI).
 
 Repository URL:
 
