@@ -1,11 +1,11 @@
-# Cross-Venue Integration, Risk Measurement, and Stablecoin Peg Fragility  
+# Does Exchange Fragmentation Distort Cryptocurrency Risk Metrics? Evidence from Cross-Venue Volatility and Stablecoin Peg Fragility  
 Replication Code and Data
 
 This repository contains the replication code, cleaned datasets, and output figures underlying the empirical analysis in the paper:
 
-**“Cross-Venue Integration, Risk Measurement, and Stablecoin Peg Fragility in Centralized Cryptocurrency Markets”**
+**“Does Exchange Fragmentation Distort Cryptocurrency Risk Metrics? Evidence from Cross-Venue Volatility and Stablecoin Peg Fragility”**
 
-by S. Aljaloud and W. Alghassab - submitted to Econometrics (MDPI).
+by S. Aljaloud and W. Alghassab - submitted to https://www.mdpi.com/journal/ijfs
 
 Repository URL:
 
