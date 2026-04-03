@@ -1,14 +1,3 @@
-# Does Exchange Fragmentation Distort Cryptocurrency Risk Metrics? Evidence from Cross-Venue Volatility and Stablecoin Peg Fragility  
-Replication Code and Data
-
-This repository contains the replication code, cleaned datasets, and output figures underlying the empirical analysis in the paper:
-
-**“Does Exchange Fragmentation Distort Cryptocurrency Risk Metrics? Evidence from Cross-Venue Volatility and Stablecoin Peg Fragility”**
-
-by S. Aljaloud and W. Alghassab - submitted to https://www.mdpi.com/journal/ijfs
-
-Repository URL:
-
 ##  Repository Structure
 crypto-fragmentation-risk/
 ├── data/
